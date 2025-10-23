@@ -1,4 +1,6 @@
-# r3f-locomotion — XR locomotion demo (react-three-fiber + @react-three/xr)
+# r3f-locomotion  XR locomotion demo (react-three-fiber + @react-three/xr)
+
+![Demo screenshot](public/screenshot.jpg)
 
 ## Quick demo (local)
 
